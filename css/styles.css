@@ -8,10 +8,15 @@
 /* Estilos gerais */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: black;
+    color: white;
     line-height: 1.6;
 }
+
+section {
+     background-color: black;
+     color: white;
+}   
 
 header {
     background-color: #333;
