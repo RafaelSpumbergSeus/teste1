@@ -46,7 +46,7 @@ nav a:hover {
 
 /* Seção hero */
 .hero {
-    background-image: url('assets/imagem-de-destaque.jpg');
+    background-image: url('assets/C:\Users\rafae\Documents\GitHub\teste1\assets\Imagem do WhatsApp de 2024-07-30 à(s) 22.25.02_7dc4a137.jpg');
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -65,15 +65,15 @@ nav a:hover {
 }
 
 .hero .btn {
-    background-color: #6b7581;
-    color: rgb(0, 0, 0);
+    background-color: #002149;
+    color: #012046(0, 0, 0);
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
 }
 
 .hero .btn:hover {
-    background-color: #6b7581;
+    background-color: #002149;
 }
 
 /* Seção de postagens */
@@ -108,12 +108,4 @@ footer {
     width: 100%;
 }
 
-#contact a {
-    color: #4CAF50;
-    text-decoration: none; 
-}
-
-#contact a:hover {
-    text-decoration: underline; 
-}
 
